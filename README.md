@@ -1,5 +1,11 @@
 <a name="readme-top"></a>
 
+<div align="center">
+   <img height="150" src = "https://avatars.githubusercontent.com/u/93875972?v=4"/>
+</div>
+
+###
+
 # 💫 About Me:
 I'm a student at Vocational High School 21 Jakarta.<br>I'm trying to learn C, C++, C#.<br>
 
