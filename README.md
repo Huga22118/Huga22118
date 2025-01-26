@@ -20,7 +20,7 @@
 ##
 
 # 💫 About Me:
-I'm a student at Vocational High School 21 Jakarta.<br>I'm trying to learn C, C++, C#.<br>I'm new to Cyber Security 👨‍💻
+I'm trying to learn C, C++, C#.<br>I'm new to Cyber Security 👨‍💻
 
 
 <!--## 🌐 Socials:
