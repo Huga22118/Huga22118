@@ -20,7 +20,7 @@
 ##
 
 # 💫 About Me:
-I'm trying to learn C, C++, C#. Mainly on C++.<br>Going to Computer Science Major after SHS.<br>I'm new to Cyber Security 👨‍💻
+I'm trying to learn C, C++, C#. Mainly on C++.<br>Will be taking Computer Science Major in the future.<br>I'm new to Cyber Security 👨‍💻
 
 
 <!--## 🌐 Socials:
